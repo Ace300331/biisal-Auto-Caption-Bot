@@ -27,6 +27,8 @@ MONGO_DB = str(
 DEF_CAP = str(
     getenv(
         "DEF_CAP",
-        "<b><a {file_name} Telegram : @Ace_Files\n\nForward the file before Downloading.</a></b>",
+        "{file_name}
+        
+        ✅ Join Us [@Ace_Files]",
     )
 )
